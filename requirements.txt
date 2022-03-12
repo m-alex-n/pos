@@ -1,0 +1,5 @@
+asgiref
+backports.zoneinfo
+Django
+sqlparse
+tzdata
